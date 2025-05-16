@@ -1,2 +1,2 @@
 # Personal website
-Personal website of [Shilaan Alzahawi](https://shilaan.netlify.app)
+Personal website of [Alexandre Ray](https://shilaan.netlify.app)

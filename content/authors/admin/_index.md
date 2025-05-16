@@ -1,60 +1,50 @@
 ---
-title: "Shilaan Alzahawi"
+title: "Alexandre Ray"
 education:
   courses:
-  - course: PhD in Organizational Behavior
-    institution: Stanford University
-    year: Expected 2025
-  - course: MSc in Statistical Science
-    institution: Ghent University
-    year: 2024
-  - course: MSc in Business Administration
-    institution: Rotterdam School of Management
-    year: 2017
-  - course: BSc in Public Administration Science
-    institution: Erasmus School of Social and Behavioral Sciences
-    year: 2014
-  - course: LLB in Law
-    institution: Erasmus School of Law
-    year: 2014
+  - course: MSc in Computer Engineering
+    institution: University of São Paulo
+    year: 2025
+  - course: BSc in Computational Physics
+    institution: University of São Paulo
+    year: 2015
 email: shilaan@stanford.edu
 highlight_name: no
 interests:
-- Organizational Behavior 
-- Leadership
-- Managing Groups and Teams
-- Team and Crowd Science 
-- Open Science
-- Statistical Inference
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
 organizations:
-- name: Stanford University
-  url: https://datascience.stanford.edu/people/shilaan-alzahawi
-role: PhD candidate in Organizational Behavior
+- name: Plan A Technologies
+  url: https://planatechnologies.com/
+role: Senior Data Scientist <br> Machine Learning Engineer <br> AI Engineer
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:shilaan@stanford.edu 
-- display:
-    header: yes
-  icon: twitter
-  icon_pack: fab
-  label: Find me on Twitter
-  link: https://twitter.com/shilaan01
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=FNPgIGAAAAAJ&hl=en&oi=sra
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/ug7xd/ 
-- icon: orcid
-  icon_pack: ai
-  link: http://orcid.org/0000-0002-6892-4643 
+# - icon: envelope
+#   icon_pack: fas
+#   link: mailto:shilaan@stanford.edu 
+# - display:
+#     header: yes
+#   icon: twitter
+#   icon_pack: fab
+#   label: Find me on Twitter
+#   link: https://twitter.com/shilaan01
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=FNPgIGAAAAAJ&hl=en&oi=sra
+# - icon: osf
+#   icon_pack: ai
+#   link: https://osf.io/ug7xd/ 
+# - icon: orcid
+#   icon_pack: ai
+#   link: http://orcid.org/0000-0002-6892-4643 
 - icon: github
   icon_pack: fab
-  link: https://github.com/shilaan
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/shilaanalzahawi/
+  link: https://github.com/alexandrerays
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alexandrerays/
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/shilaan01/ 
@@ -67,11 +57,15 @@ bio: My research interests include leadership, team science, and open science
 greeting: alzahawi::shilaan()
 ---
 
-I'm a PhD candidate in [**Organizational Behavior**](https://www.gsb.stanford.edu/programs/phd/fields/organizational-behavior) at the Stanford Graduate School of Business and a [**Stanford Data Science Scholar**](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program). Stanford Data Science Scholars are early-career researchers from all parts of the University who are using and developing data science methods in their research.  
+I am a Data Scientist with over 10 years of experience in artificial intelligence, machine learning, software engineering, and systems design. Throughout my career, I have worked across multiple industries, including investment banking, IT consulting & outsourcing, fintech, manufacturing, education, healthcare, and casinos.
 
-I'm interested in Organizational Behavior, with a special interest in Leadership and Managing Groups and Teams. In addition to my substantive work in Organizational Behavior, I'm interested in meta-science and methods. My favorite letter in the alphabet is <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>, and I am weirdly evangelical about it. In my free time, I enjoy hot yoga, deadlifting, hiking, and taking board games much too seriously. 
+I have a strong academic background, holding a bachelor's degree in computational physics and a master's degree in engineering, both from [**USP (University of São Paulo)**](https://www5.usp.br/).
+
+My expertise spans Python, SQL, machine learning, statistics, data modeling, and project management. I have successfully led multidisciplinary teams from various countries. With over three years of experience working for US companies, I have developed a deep understanding of global business and technology landscapes. 
+
+I thrive in complex problem-solving environments, bringing a proactive and strategic approach to optimizing analytical processes, designing scalable systems, and driving innovation. Whether in financial services, education, or healthcare, I adapt quickly to new challenges and leverage data-driven insights to create impactful solutions.
 
 <center> 
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+#### <i class="fa fa-download" aria-hidden="true" style="color:#BBDEFB"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
 </center> 

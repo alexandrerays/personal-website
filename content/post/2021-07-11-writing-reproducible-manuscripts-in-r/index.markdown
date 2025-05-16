@@ -1,6 +1,6 @@
 ---
 title: Writing reproducible manuscripts in R
-author: Shilaan Alzahawi
+author: Alexandre Ray
 date: '2021-07-11'
 slug: writing-reproducible-manuscripts-in-r
 categories: 

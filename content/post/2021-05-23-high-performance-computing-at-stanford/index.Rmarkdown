@@ -1,6 +1,6 @@
 ---
 title: High Performance Computing at Stanford
-author: Shilaan Alzahawi
+author: Alexandre Ray
 date: '2021-05-23'
 slug: high-performance-computing-at-stanford
 categories: 

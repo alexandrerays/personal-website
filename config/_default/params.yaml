@@ -5,17 +5,33 @@
 
 # Appearance
 
+main_menu:
+  enable: true
+  align: l
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: true
+  
 theme: shilaan_theme
-day_night: false
-font: 'shilaan_font'
+font: shilaan_font
 font_size: L
+
+appearance:
+  mode: system          # light | dark | system
+  color: indigo
+
+header:
+  navbar:
+    show_theme_chooser: true    # turn the moon-sun icon on
 
 # SEO
 
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Shilaan Alzahawi personal website'
+description: 'Alexandre Ray personal website'
 twitter: 'https://twitter.com/shilaan01'
 
 # Contact (edit or remove options as required)
