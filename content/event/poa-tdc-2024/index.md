@@ -9,7 +9,7 @@ address:
 all_day: true
 authors: []
 draft: true
-date: "2030-06-01"
+# date: "2024-12-03"
 # date_end: "2030-06-01"
 event: The Developers Conference
 event_url: https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias
@@ -25,7 +25,7 @@ featured: false
 location: Porto Alegre, RS - Brazil
 projects:
 - internal-project
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-12-03T00:00:00Z"
 # slides: example
 summary: Remote work in AI and data careers for global companies offers higher earnings, global experience, and flexibility to live in Brazil with international opportunities.
 tags: []

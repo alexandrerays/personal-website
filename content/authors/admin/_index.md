@@ -49,9 +49,9 @@ social:
 #   icon_pack: fab
 #   link: https://www.instagram.com/shilaan01/ 
 # Link to a PDF of your resume/CV.
-- icon: cv
-  icon_pack: ai
-  link: cv/alzahawi.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: cv/alzahawi.pdf
 superuser: yes
 bio: My research interests include leadership, team science, and open science
 greeting: alzahawi::shilaan()
@@ -65,7 +65,7 @@ My expertise spans Python, SQL, machine learning, statistics, data modeling, and
 
 I thrive in complex problem-solving environments, bringing a proactive and strategic approach to optimizing analytical processes, designing scalable systems, and driving innovation. Whether in financial services, education, or healthcare, I adapt quickly to new challenges and leverage data-driven insights to create impactful solutions.
 
-<center> 
+<!-- <center> 
 
 #### <i class="fa fa-download" aria-hidden="true" style="color:#BBDEFB"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
-</center> 
+</center>  -->

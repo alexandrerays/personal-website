@@ -12,7 +12,7 @@ draft: true
 # date: "2030-06-01"
 # date_end: "2030-06-01"
 event: The Developers Conference
-event_url: https://thedevconf.com/tdc/2024/summit-porto-alegre/hub-mentorias
+event_url: https://thedevconf.com/tdc/2024/florianopolis/trilha-ia-generativa
 featured: false
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
